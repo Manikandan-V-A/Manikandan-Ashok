@@ -1025,7 +1025,7 @@ nav .fa-solid {
         background: linear-gradient(270deg, rgba(0, 0, 0, 0.288), rgba(0, 0, 0, 0)),
             url(./assets/main55555.png) no-repeat;
         background-size: cover;
-        background-position: bottom;
+        /* background-position: bottom; */
         background-attachment: fixed;
     }
 
@@ -1485,7 +1485,7 @@ nav .fa-solid {
 
     .modal__card {
         border-radius: 10px;
-        height: 59%;
+        height: 65%;
         width: 95%;
         position: relative;
         background-color: var(--body-color);
