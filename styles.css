@@ -999,7 +999,6 @@ nav .fa-solid {
         background: linear-gradient(270deg, rgba(0, 0, 0, 0.212), rgba(0, 0, 0, 0)),
             url(./assets/back-small.png) no-repeat;
         background-size: cover;
-        background-position: center;
         background-attachment: fixed;
     }
 
