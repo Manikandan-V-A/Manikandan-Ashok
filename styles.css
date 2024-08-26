@@ -996,8 +996,9 @@ nav .fa-solid {
 
 @media only screen and (max-width: 600px) {
     #header {
-        background: linear-gradient(270deg, rgba(0, 0, 0, 0.212), rgba(0, 0, 0, 0)),
-            url(./assets/back-small.png) no-repeat;
+        /* background: linear-gradient(270deg, rgba(0, 0, 0, 0.212), rgba(0, 0, 0, 0)),
+            url(./assets/back-small.png) no-repeat; */
+        background-image: url(./assets/back-small.png);
         background-size: cover;
         background-attachment: fixed;
     }
